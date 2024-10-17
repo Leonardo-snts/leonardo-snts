@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Imprensa Oficial do Amazonas<br>- 📚 I'm currently learning Systems Analysis and Development</p>
+<p align="left"> 🔭 I’m working as Imprensa Oficial do Amazonas<br>- 📚 I'm currently learning Systems Analysis and Development</p>
 
 ###
 
